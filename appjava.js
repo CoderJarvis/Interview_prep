@@ -71,7 +71,7 @@ function random() {
             st = "In how many ways we can creat a thread";
             break;
         case 20:
-            st = "What is priority";
+            st = "What is thread priority";
             break;
         case 21:
             st = "Explain the life cycle of a thread";
