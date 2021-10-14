@@ -77,7 +77,7 @@ function random() {
         st="what is logical errors";
         break;
     case 22:
-        st="increment/decrement operator";
+        st="What is increment or decrement operator";
         break;
     case 23:
         st="what is type casting";
