@@ -14,79 +14,91 @@ function random() {
     let st = "";
     switch (y) {
         case 1:
-            st = "";
+            st = "What is java";
             break;
         case 2:
-            st = "";
+            st = "C++ vs JAVA";
             break;
         case 3:
-            st = "";
+            st = "java is compiler baes or interpreter based?";
             break;
         case 4:
-            st = "";
+            st = "What is JDK";
             break;
         case 5:
-            st = "";
+            st = "What is JRE";
             break;
         case 6:
-            st = "";
+            st = "What is JVM";
             break;
         case 7:
-            st = "";
+            st = "Explain the main function of java i.e public static void main";
             break;
         case 8:
-            st = "";
+            st = "String are immutable in java. justify it";
             break;
         case 9:
-            st = "";
+            st = "What is vargar in java";
             break;
         case 10:
-            st = "";
+            st = "What are the aceess specifiers in java";
             break;
         case 11:
-            st = "";
+            st = "What is this keyword";
             break;
         case 12:
-            st = "";
+            st = "What is super keyword";
             break;
         case 13:
-            st = "";
+            st = "What is abstract method in java";
             break;
         case 14:
-            st = "";
+            st = "What is interface in java";
             break;
         case 15:
-            st = "";
+            st = "Why muiltiple inheritance is not supperted in java";
             break;
         case 16:
-            st = "";
+            st = "Abstract class vs inheritance";
             break;
         case 17:
-            st = "";
+            st = "What is packages in java";
             break;
         case 18:
-            st = "";
+            st = "what is multithreading in java";
             break;
         case 19:
-            st = "";
+            st = "In how many ways we can creat a thread";
             break;
         case 20:
-            st = "";
+            st = "What is priority";
             break;
         case 21:
-            st = "";
+            st = "Explain the life cycle of a thread";
             break;
         case 22:
-            st = "";
+            st = "Exceptions in java and it is handled";
             break;
         case 23:
-            st = "";
+            st = "What is try-catch block";
             break;
         case 24:
-            st = "";
+            st = "What is throw keyword";
             break;
         case 25:
-            st = "";
+            st = "What is throws keyword";
+            break;
+        case 26:
+            st = "What is throw keyword";
+            break;
+        case 27:
+            st = "What is throws keyword";
+            break;
+        case 28:
+            st = "What is final keyword";
+            break;
+        case 29:
+            st = "What is finally block";
             break;
 
 
