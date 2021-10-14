@@ -4,8 +4,8 @@ btn.addEventListener("click", random);
 
 function random() {
     
-    let min=100;
-    let max=101;
+    let min=1;
+    let max=29;
     let x=Math.random() * (max - min) + min;
 
 
